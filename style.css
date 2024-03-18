@@ -1,0 +1,35 @@
+body{
+   
+    background-color: crimson;
+    height: 500px;
+    color: wheat;
+
+   
+
+}
+ul{
+    background-color: rgb(121, 12, 34);
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+h1{
+    margin-left: 30px;
+}
+.container{
+    margin-left: 30px;
+}
+.container2{
+    text-decoration: line-through;
+    text-decoration-color: black;
+    font-size: 22px;
+}
+
